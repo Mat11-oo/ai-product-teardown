@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 产品拆解"
+  short_description: "从真实场景体验逆向拆解商业、Agent、模型与数据，形成有证据的产品架构"
+  default_prompt: "使用 $ai-product-teardown 拆解这款 AI 产品，按七阶段流程输出评测、Agent 深度分析和总架构图。"
