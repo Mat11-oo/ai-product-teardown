@@ -75,8 +75,6 @@ description: 深度拆解 AI 产品，从真实场景体验分析商业定位、
 - 明确材料缺口、样本与范围，不将演示成功推广为稳定性结论。
 
 ## 方法论来源
-
-- [W3D1 · AI 产品拆解](https://w3d1.vercel.app/)：五层五问、正向五步、异常四条与证据三分法。
 - [以 OiiOii 为例拆解一个 Multi Agent 平台](https://qiif643fw66.feishu.cn/wiki/FURJwrpJ0i3efOkPauKcRxbTnVh)：商业、场景实测、Agent 与上下文、工具和提示词的逆向分析。
 
 固定经用户确认的七阶段方法，不固化案例价格、模型版本、评分和市场数字。执行时无需先打开方法论来源页，按本 Skill 和相关参考文件即可工作。
